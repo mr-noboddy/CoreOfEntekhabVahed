@@ -1,1 +1,2 @@
-alert("boob")
+alert("boob$")
+alert("ass")
